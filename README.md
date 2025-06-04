@@ -45,4 +45,4 @@ Este proyecto analiza por qué los clientes abandonan una empresa de telecomunic
 
 ## 📩 Contacto
 
-¿Dudas o sugerencias? Escríbeme a [tuemail@ejemplo.com]
+¿Dudas o sugerencias? Escríbeme a [inesheuchoi@gmail.com]
