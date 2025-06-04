@@ -42,7 +42,3 @@ Este proyecto analiza por qué los clientes abandonan una empresa de telecomunic
 4. Asegúrate de tener instalados `pandas`, `matplotlib`, y `seaborn`.
 
 ---
-
-## 📩 Contacto
-
-¿Dudas o sugerencias? Escríbeme a [inesheuchoi@gmail.com]
